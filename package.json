@@ -2,7 +2,10 @@
     "name": "node-red-config",
     "description": "Personal Node Red config",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-home-assistant": "0.3.0",
+        "node-red-contrib-schedex": "1.1.1"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_MasterController.json",
