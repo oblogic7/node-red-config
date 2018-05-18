@@ -4,7 +4,13 @@
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-home-assistant": "0.3.0",
-        "node-red-contrib-schedex": "1.1.1"
+        "node-red-contrib-schedex": "1.1.1",
+        "node-red-contrib-fs-ops": "1.4.0",
+        "node-red-contrib-counter": "0.1.5",
+        "node-red-contrib-stoptimer": "0.0.7",
+        "node-red-contrib-time-range-switch": "0.5.1",
+        "node-red-contrib-traffic": "0.2.1",
+        "node-red-node-email": "0.1.27"
     },
     "node-red": {
         "settings": {
