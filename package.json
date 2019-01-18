@@ -5,12 +5,19 @@
     "dependencies": {
         "node-red-contrib-home-assistant": "0.3.0",
         "node-red-contrib-schedex": "1.1.1",
-        "node-red-contrib-fs-ops": "1.4.0",
-        "node-red-contrib-counter": "0.1.5",
         "node-red-contrib-stoptimer": "0.0.7",
         "node-red-contrib-time-range-switch": "0.5.1",
-        "node-red-contrib-traffic": "0.2.1",
-        "node-red-node-email": "0.1.27"
+        "node-red-contrib-home-assistant-websocket": "0.5.1",
+        "node-red-contrib-geofence": "0.2.4",
+        "node-red-contrib-credentials": "0.2.1",
+        "node-red-contrib-bool-gate": "1.0.2",
+        "node-red-contrib-alexa-local": "0.3.24",
+        "node-red-contrib-light-scheduler": "0.0.11",
+        "node-red-contrib-repeat": "0.0.27",
+        "node-red-contrib-string": "0.2.2",
+        "node-red-contrib-throttle": "0.1.6",
+        "node-red-contrib-unifi": "0.0.6",
+        "node-red-contrib-weekday": "0.1.0"
     },
     "node-red": {
         "settings": {
